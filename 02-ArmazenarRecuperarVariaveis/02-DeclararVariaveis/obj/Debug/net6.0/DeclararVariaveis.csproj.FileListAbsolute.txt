@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\bin\Debug\net6.0\DeclararVariaveis.exe
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\bin\Debug\net6.0\DeclararVariaveis.deps.json
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\bin\Debug\net6.0\DeclararVariaveis.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\bin\Debug\net6.0\DeclararVariaveis.dll
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\bin\Debug\net6.0\DeclararVariaveis.pdb
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\DeclararVariaveis.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\DeclararVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\DeclararVariaveis.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\DeclararVariaveis.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\DeclararVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\DeclararVariaveis.dll
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\refint\DeclararVariaveis.dll
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\DeclararVariaveis.pdb
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\DeclararVariaveis.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\DeclararVariaveis\obj\Debug\net6.0\ref\DeclararVariaveis.dll

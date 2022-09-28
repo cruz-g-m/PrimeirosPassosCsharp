@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\bin\Debug\net6.0\03-IncrementarDecrementarValores.exe
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\bin\Debug\net6.0\03-IncrementarDecrementarValores.deps.json
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\bin\Debug\net6.0\03-IncrementarDecrementarValores.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\bin\Debug\net6.0\03-IncrementarDecrementarValores.dll
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\bin\Debug\net6.0\03-IncrementarDecrementarValores.pdb
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\03-IncrementarDecrementarValores.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\03-IncrementarDecrementarValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\03-IncrementarDecrementarValores.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\03-IncrementarDecrementarValores.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\03-IncrementarDecrementarValores.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\03-IncrementarDecrementarValores.dll
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\refint\03-IncrementarDecrementarValores.dll
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\03-IncrementarDecrementarValores.pdb
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\03-IncrementarDecrementarValores.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\03-IncrementarDecrementarValores\obj\Debug\net6.0\ref\03-IncrementarDecrementarValores.dll

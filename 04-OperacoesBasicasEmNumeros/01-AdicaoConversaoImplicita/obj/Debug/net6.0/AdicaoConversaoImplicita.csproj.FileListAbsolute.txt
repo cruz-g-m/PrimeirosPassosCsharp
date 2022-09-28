@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\bin\Debug\net6.0\AdicaoConversaoImplicita.exe
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\bin\Debug\net6.0\AdicaoConversaoImplicita.deps.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\bin\Debug\net6.0\AdicaoConversaoImplicita.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\bin\Debug\net6.0\AdicaoConversaoImplicita.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\bin\Debug\net6.0\AdicaoConversaoImplicita.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\AdicaoConversaoImplicita.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\AdicaoConversaoImplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\AdicaoConversaoImplicita.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\AdicaoConversaoImplicita.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\AdicaoConversaoImplicita.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\AdicaoConversaoImplicita.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\refint\AdicaoConversaoImplicita.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\AdicaoConversaoImplicita.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\AdicaoConversaoImplicita.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\AdicaoConversaoImplicita\obj\Debug\net6.0\ref\AdicaoConversaoImplicita.dll

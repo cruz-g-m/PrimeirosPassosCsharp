@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ValoresLiterais.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ValoresLiterais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ValoresLiterais.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ValoresLiterais.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ValoresLiterais.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\bin\Debug\net6.0\ValoresLiterais.exe
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\bin\Debug\net6.0\ValoresLiterais.deps.json
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\bin\Debug\net6.0\ValoresLiterais.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\bin\Debug\net6.0\ValoresLiterais.dll
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\bin\Debug\net6.0\ValoresLiterais.pdb
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ValoresLiterais.dll
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\refint\ValoresLiterais.dll
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ValoresLiterais.pdb
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ValoresLiterais.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\ValoresLiterais\obj\Debug\net6.0\ref\ValoresLiterais.dll

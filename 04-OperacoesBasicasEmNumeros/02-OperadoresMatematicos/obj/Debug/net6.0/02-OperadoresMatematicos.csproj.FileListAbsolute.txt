@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\bin\Debug\net6.0\02-OperadoresMatematicos.exe
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\bin\Debug\net6.0\02-OperadoresMatematicos.deps.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\bin\Debug\net6.0\02-OperadoresMatematicos.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\bin\Debug\net6.0\02-OperadoresMatematicos.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\bin\Debug\net6.0\02-OperadoresMatematicos.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\02-OperadoresMatematicos.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\02-OperadoresMatematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\02-OperadoresMatematicos.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\02-OperadoresMatematicos.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\02-OperadoresMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\02-OperadoresMatematicos.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\refint\02-OperadoresMatematicos.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\02-OperadoresMatematicos.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\02-OperadoresMatematicos.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\04-OperaçoesBasicasEmNumeros\02-OperadoresMatematicos\obj\Debug\net6.0\ref\02-OperadoresMatematicos.dll

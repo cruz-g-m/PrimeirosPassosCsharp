@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\bin\Debug\net6.0\ConcatenacaoCadeiaCaracter.exe
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\bin\Debug\net6.0\ConcatenacaoCadeiaCaracter.deps.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\bin\Debug\net6.0\ConcatenacaoCadeiaCaracter.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\bin\Debug\net6.0\ConcatenacaoCadeiaCaracter.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\bin\Debug\net6.0\ConcatenacaoCadeiaCaracter.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ConcatenacaoCadeiaCaracter.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ConcatenacaoCadeiaCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ConcatenacaoCadeiaCaracter.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ConcatenacaoCadeiaCaracter.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ConcatenacaoCadeiaCaracter.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ConcatenacaoCadeiaCaracter.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\refint\ConcatenacaoCadeiaCaracter.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ConcatenacaoCadeiaCaracter.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ConcatenacaoCadeiaCaracter.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\FormatacaoCadeiaCaracter\ConcatenacaoCadeiaCaracter\obj\Debug\net6.0\ref\ConcatenacaoCadeiaCaracter.dll
