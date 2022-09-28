@@ -1,16 +1,16 @@
 ﻿Console.WriteLine("");
-Console.WriteLine('b');
+Console.WriteLine('b'); // Gravar um literal char no console
 
 Console.WriteLine("");
-Console.WriteLine(123);
+Console.WriteLine(123); // Gravar um literal int no console
 
 Console.WriteLine("");
-Console.WriteLine(12.30m);
+Console.WriteLine(12.30m); // Gravar um literal decimal no console
 
 Console.WriteLine("");
-Console.WriteLine(true);
+Console.WriteLine(true); // Gravar um literal true no console
 
 Console.WriteLine("");
-Console.WriteLine(false);
+Console.WriteLine(false); // Gravar um literal false no console
 
 Console.WriteLine("");
