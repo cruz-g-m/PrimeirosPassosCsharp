@@ -1,4 +1,4 @@
-﻿//Use as duas técnicas diferentes para imprimir as duas linhas da saída.
+﻿//Use duas técnicas diferentes para imprimir duas linhas da saída.
 
 Console.WriteLine("");
 
