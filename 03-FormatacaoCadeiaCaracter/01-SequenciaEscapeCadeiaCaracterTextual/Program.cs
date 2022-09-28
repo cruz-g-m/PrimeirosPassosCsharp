@@ -1,5 +1,4 @@
 ﻿Console.WriteLine("");
-//O código a seguir usa sequências de caracteres de escape para adicionar espaço em branco.
 Console.WriteLine("Hello\nWorld!");
 Console.WriteLine("Hello\tWorld!");
 Console.WriteLine("");
