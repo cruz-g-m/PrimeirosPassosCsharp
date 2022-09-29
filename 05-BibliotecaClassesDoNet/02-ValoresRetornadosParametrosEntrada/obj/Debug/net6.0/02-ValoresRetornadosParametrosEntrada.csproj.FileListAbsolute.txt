@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\bin\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.exe
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\bin\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.deps.json
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\bin\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\bin\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.dll
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\bin\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.pdb
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.dll
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\refint\02-ValoresRetornadosParametrosEntrada.dll
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.pdb
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\02-ValoresRetornadosParametrosEntrada.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\01-PrimeirosPassosCsharp\csharp\05-BibliotecaClassesDoNet\02-ValoresRetornadosParametrosEntrada\obj\Debug\net6.0\ref\02-ValoresRetornadosParametrosEntrada.dll
