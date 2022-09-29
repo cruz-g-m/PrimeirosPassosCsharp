@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8QPBByuZyZ1Me3YVv7bNJTXS86L+3k5yEh9YV2nDdL+TAldOkXVa2TUVi6Dtc4sdr4jNWc9pGC1LXHg2e0+NgA==",
+  "dgSpecHash": "zekcqaI4QeErZvHflQYSiW5IoU2rDkLbI72js3L9lFyfReiyDF97LCiivxi8PBGJvcGKepxLgATZj5aLXny7UA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\CSharp\\PrimeirosPassosCsharp\\FormatacaoCadeiaCaracter\\SequenciaEscapeCadeiaCaracterTextual\\SequenciaEscapeCadeiaCaracterTextual.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\CSharp\\01-PrimeirosPassosCsharp\\03-FormatacaoCadeiaCaracter\\01-SequenciaEscapeCadeiaCaracterTextual\\SequenciaEscapeCadeiaCaracterTextual.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
