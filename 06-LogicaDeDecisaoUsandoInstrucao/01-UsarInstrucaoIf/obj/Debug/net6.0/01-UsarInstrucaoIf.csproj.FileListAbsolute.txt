@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\bin\Debug\net6.0\01-UsarInstrucaoIf.exe
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\bin\Debug\net6.0\01-UsarInstrucaoIf.deps.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\bin\Debug\net6.0\01-UsarInstrucaoIf.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\bin\Debug\net6.0\01-UsarInstrucaoIf.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\bin\Debug\net6.0\01-UsarInstrucaoIf.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\01-UsarInstrucaoIf.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\01-UsarInstrucaoIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\01-UsarInstrucaoIf.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\01-UsarInstrucaoIf.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\01-UsarInstrucaoIf.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\01-UsarInstrucaoIf.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\refint\01-UsarInstrucaoIf.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\01-UsarInstrucaoIf.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\01-UsarInstrucaoIf.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\01-UsarInstrucaoIf\obj\Debug\net6.0\ref\01-UsarInstrucaoIf.dll
