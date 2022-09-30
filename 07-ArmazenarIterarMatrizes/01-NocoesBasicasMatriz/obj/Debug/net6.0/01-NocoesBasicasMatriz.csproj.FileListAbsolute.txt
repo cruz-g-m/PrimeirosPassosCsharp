@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\bin\Debug\net6.0\01-NocoesBasicasMatriz.exe
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\bin\Debug\net6.0\01-NocoesBasicasMatriz.deps.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\bin\Debug\net6.0\01-NocoesBasicasMatriz.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\bin\Debug\net6.0\01-NocoesBasicasMatriz.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\bin\Debug\net6.0\01-NocoesBasicasMatriz.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\01-NocoesBasicasMatriz.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\01-NocoesBasicasMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\01-NocoesBasicasMatriz.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\01-NocoesBasicasMatriz.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\01-NocoesBasicasMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\01-NocoesBasicasMatriz.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\refint\01-NocoesBasicasMatriz.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\01-NocoesBasicasMatriz.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\01-NocoesBasicasMatriz.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\01-NocoesBasicasMatriz\obj\Debug\net6.0\ref\01-NocoesBasicasMatriz.dll

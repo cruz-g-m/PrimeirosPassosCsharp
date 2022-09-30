@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\02-InstrucaoForeach.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\02-InstrucaoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\02-InstrucaoForeach.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\02-InstrucaoForeach.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\02-InstrucaoForeach.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\bin\Debug\net6.0\02-InstrucaoForeach.exe
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\bin\Debug\net6.0\02-InstrucaoForeach.deps.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\bin\Debug\net6.0\02-InstrucaoForeach.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\bin\Debug\net6.0\02-InstrucaoForeach.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\bin\Debug\net6.0\02-InstrucaoForeach.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\02-InstrucaoForeach.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\refint\02-InstrucaoForeach.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\02-InstrucaoForeach.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\02-InstrucaoForeach.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\07-ArmazenarIterarMatrizes\02-InstrucaoForeach\obj\Debug\net6.0\ref\02-InstrucaoForeach.dll
