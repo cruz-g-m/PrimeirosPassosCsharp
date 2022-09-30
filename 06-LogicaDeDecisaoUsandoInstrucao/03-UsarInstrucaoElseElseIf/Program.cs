@@ -8,9 +8,11 @@ Aninharemos a verificação de resultados triplicados dentro da verificação
 de duplicados. Modifique o código de forma que corresponda à seguinte listagem de código:
 */
 
-int roll1 = 6;
-int roll2 = 6;
-int roll3 = 6;
+Random dice = new Random();
+
+int roll1 = dice.Next(1, 7);
+int roll2 = dice.Next(1, 7);
+int roll3 = dice.Next(1, 7);
 
 int total = roll1 + roll2 + roll3;
 
@@ -30,11 +32,31 @@ if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
     }
 }
 
-if (total >= 15)
+if (total >= 16)
 {
-    Console.WriteLine("You win!");
+    Console.WriteLine("You win a new car!");
 }
-else 
+else if (total >= 10)
 {
-    Console.WriteLine("Sorry, you lose.");
+    Console.WriteLine("You win a new laptop!");
 }
+else if (total == 7)
+{
+    Console.WriteLine("You win a trip for two!");
+}
+else
+{
+    Console.WriteLine("You win a kitten!");
+}
+
+/*
+Para tornar o jogo mais divertido, em vez de vencer/perder, vamos conceder 
+prêmios fictícios para cada pontuação. Ofereceremos quatro prêmios. O jogador 
+deve ganhar apenas um prêmio:
+
+Se a pontuação do jogador for maior ou igual a 16, ele ganhará um carro novo.
+Se a pontuação do jogador for maior ou igual a 10, ele ganhará um laptop novo.
+Se a pontuação do jogador for exatamente 7, ele ganhará uma viagem.
+Caso contrário, ganhará um gatinho.
+
+*/

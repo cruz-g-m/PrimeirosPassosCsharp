@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\bin\Debug\net6.0\03-UsarInstrucaoElseElseif.exe
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\bin\Debug\net6.0\03-UsarInstrucaoElseElseif.deps.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\bin\Debug\net6.0\03-UsarInstrucaoElseElseif.runtimeconfig.json
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\bin\Debug\net6.0\03-UsarInstrucaoElseElseif.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\bin\Debug\net6.0\03-UsarInstrucaoElseElseif.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\03-UsarInstrucaoElseElseif.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\03-UsarInstrucaoElseElseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\03-UsarInstrucaoElseElseif.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\03-UsarInstrucaoElseElseif.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\03-UsarInstrucaoElseElseif.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\03-UsarInstrucaoElseElseif.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\refint\03-UsarInstrucaoElseElseif.dll
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\03-UsarInstrucaoElseElseif.pdb
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\03-UsarInstrucaoElseElseif.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\CSharp\PrimeirosPassosCsharp\06-LogicaDeDecisaoUsandoInstrucao\03-UsarInstrucaoElseElseif\obj\Debug\net6.0\ref\03-UsarInstrucaoElseElseif.dll
